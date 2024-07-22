@@ -30,7 +30,7 @@ I have some published articles and preprints (google scholar <a href='https://sc
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 New Paper on adaptive virtual power plant based on multi-agent reinforcement learning Accepted by Applied Energy.
 
-# 📝 Journal & Conference
+# 📝 Journal and Conference
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", Accepted in *Applied Energy*, 2024.
 
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Review.
@@ -80,7 +80,7 @@ I have some published articles and preprints (google scholar <a href='https://sc
   - Role: contribute to research project modeling and manuscript writing
   - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
 
-# 🛠 Skills & Courses
+# 🛠 Skills and Courses
 **Related Courses:** Scientific Programming, Energy System Modeling, Power System Economics, Convex Optimization, Machine Learning, Earth and Climate Science
 
 **Programming:** Python, Julia, Matlab/Simulink, Git, LaTeX, C, C++
