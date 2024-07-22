@@ -22,7 +22,9 @@ Nice to meet you here!
 
 I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future! I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). Meanwhile I am the PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](http://scholar.pku.edu.cn/smy) at Peking Univerisity.
 
-I’m interested in the renewable transition of energy systems. Also I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes energy policy, efficient data-driven energy system operation, and emerging energy conversion and management technology. I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can find my CV here: [Haochi's Curriculum Vitae](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:haochiw@umich.edu).
+I’m interested in the renewable transition of energy systems. Also I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes energy policy, efficient data-driven energy system operation, and emerging energy conversion and management technology. 
+
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me.
 
 
 # 🔥 News
@@ -41,7 +43,7 @@ I’m interested in the renewable transition of energy systems. Also I’m curio
 
 - L. Zhang, **H. Wu**, X. Wan, et al. "OMDA: Offline Model-Guided Distribution-Aware Offline-to-Online Reinforcement Learning", in *NeurIPS 2024*, Under Review.
 
-- Y. Quan, **H. Wu**, M. Sun, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation to *IEEE Transactions on Smart Grid*.
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation to *IEEE Transactions Journal*.
 
 - J. Meng, **H. Wu**, T. Wang, et al. (2021). "A novel super-cooling enhancement method for a two-stage thermoelectric cooler using integrated triangular-square current pulses", *Energy*, 217, 119360.
 
@@ -65,7 +67,7 @@ I’m interested in the renewable transition of energy systems. Also I’m curio
   - Recommended as an exam-free student to the graduate school
 
 - *Sept 2016 – May 2020*, **B.Eng. in Automation** at **North China Electric Power University**, School of Control and Computer Engineering
-  - Average grade 92.3/100, Rankings 4/123
+  - Grade 92.3, Rankings 4/123
 
 # 🔬 Research Projects
 - *Sept 2023 – May 2025*, University of Michigan
