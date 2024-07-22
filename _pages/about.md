@@ -64,10 +64,10 @@ I have some published articles and preprints (google scholar <a href='https://sc
   - Supervisor: [**Prof. Mingyang Sun**](https://www.ideallab-smy.com/), Research Professor at Peking University, Honorary Lecturer at Imperial College London
   - Visiting doctoral researcher at University of Michigan, Ann Arbor, UM-Center for Sustainable Systems. Supervisor: [**Prof. Michael Craig**](https://www.assetlab.org/people)
 
-- *Sept 2020 – May 2023*, **M.Sc in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
+- *Sept 2020 – May 2023*, **M.Sc** at **Zhejiang University**, College of Control Science and Engineering
   - Recommended as an exam-free student to the graduate school
 
-- *Sept 2016 – May 2020*, **B.Eng. in Automation** at **North China Electric Power University**, School of Control and Computer Engineering
+- *Sept 2016 – May 2020*, **B.Eng.** at **North China Electric Power University**, School of Control and Computer Engineering
   - Grade 92.3, Rankings 4/123
 
 # 🔬 Research Projects
