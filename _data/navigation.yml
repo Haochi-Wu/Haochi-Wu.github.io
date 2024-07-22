@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Journal & Conference"
-    url: "/#-Journal-&-Conference"
+  - title: "Journal and Conference"
+    url: "/#-Journal-and-Conference"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -18,5 +18,5 @@ main:
   - title: "Research Projects"
     url: "/#-research-projects"
 
-  - title: "Skills & Courses"
+  - title: "Skills and Courses"
     url: "/#-skills-and-courses"
