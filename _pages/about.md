@@ -27,7 +27,7 @@ Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-187-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-188-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
