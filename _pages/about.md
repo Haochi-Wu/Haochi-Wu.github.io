@@ -20,12 +20,14 @@ redirect_from:
 # About me 
 Nice to meet you here!
 
-I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future! I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). 
+I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
+
+I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). 
 Meanwhile I am the PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking Univerisity.
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy system, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-187-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me.
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-187-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
