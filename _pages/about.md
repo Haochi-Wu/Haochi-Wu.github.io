@@ -17,42 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me 
+Nice to meet you here!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future! I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). Meanwhile I am the PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](http://scholar.pku.edu.cn/smy) at Peking Univerisity.
+
+I’m interested in the renewable transition of energy systems. Also I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes energy policy, efficient data-driven energy system operation, and emerging energy conversion and management technology. I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). Please feel free to contact me if you are interested in our research!
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 New Paper on adaptive virtual power plant based on multi-agent reinforcement learning Accepted by Applied Energy.
 
-# 📝 Publications 
+# 📝 Journal & Conference
+- **H. Wu**, D. Qiu, L. Zhang, M. Sun, "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", Accepted in *Applied Energy*, 2024.
+- 
+- **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Review.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Under Revision.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **H. Wu**, M. Craig. "Mitigating Thermal Risk in Buildings during Weather Related Resource Adequacy Failures with Grid-Scale Energy Storage", Accepted in *International Symposium on Sustainable Systems and Technology (ISSST) 2024*, Baltimore, Maryland.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **H. Wu**, M. Craig. "Climate Change Will Increase Costs of Rooftop Photovoltaics Globally", Accepted as lighting talk in *Macro Energy System Workshop (MES) 2024*, Princeton University, NJ.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- L. Zhang, **H. Wu**, X. Wan, et al. "OMDA: Offline Model-Guided Distribution-Aware Offline-to-Online Reinforcement Learning", in *NeurIPS 2024*, Under Review.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Y. Quan, **H. Wu**, M. Sun, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation to *IEEE Transactions on Smart Grid*.
+
+- J. Meng, **H. Wu**, T. Wang, et al. (2021). "A novel super-cooling enhancement method for a two-stage thermoelectric cooler using integrated triangular-square current pulses", *Energy*, 217, 119360.
+
+- T. Wang, **H. Wu**, J. Meng, et al. (2020). "Optimization of a double-layered microchannel heat sink with semi-porous-ribs by multi-objective genetic algorithm", *International Journal of Heat and Mass Transfer*, 149, 119217.
+
+- J. Meng, **H. Wu**, T. Wang, et al. (2020). "Thermal management of a flexible controlled thermoelectric energy conversion-utilization system using a multi-objective optimization", *Applied Thermal Engineering*, 179, 115721.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021*, Outstanding Graduate Student Award, Zhejiang University
+- *2020*, Outstanding Graduate Award, North China Electric Power University
+- *2019*, National Scholarship, Ministry of Education of China (Rate: 0.1%)
+- *2019*, 2nd Prize in the 12th Competition of energy conservation and emission reduction
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sept 2023 – May 2025*, **Ph.D. Candidate in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
+  - Supervisor: [**Prof. Mingyang Sun**](https://www.ideallab-smy.com/), Research Professor at Peking University, Honorary Lecturer at Imperial College London
+  - Visiting doctoral researcher at University of Michigan, Ann Arbor, UM-Center for Sustainable Systems. Supervisor: [**Prof. Michael Craig**](https://www.assetlab.org/people)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Sept 2020 – May 2023*, **M.Sc in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
+  - Recommended as an exam-free student to the graduate school
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Sept 2016 – May 2020*, **B.Eng. in Automation** at **North China Electric Power University**, School of Control and Computer Engineering
+  - Average grade 92.3/100, Rankings 4/123
+
+# 🔬 Research Projects
+- *Sept 2023 – May 2025*, University of Michigan
+  - Contributor: sub research project modeling and manuscript writing
+  - NSF CAREER: CAS- Climate: PI: Prof. Michael Craig
+
+- *Sept 2020 – May 2023*, Zhejiang University
+  - Contributor: sub research project modeling and manuscript writing
+  - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
+
+# 🛠 Skills & Courses
+**Related Courses:** Scientific Programming, Energy System Modeling, Power System Economics, Convex Optimization, Machine Learning, Earth and Climate Science
+**Programming:** Python, Julia, Matlab/Simulink, Git, LaTeX, C, C++
