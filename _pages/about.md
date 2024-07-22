@@ -28,7 +28,7 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 New Paper on adaptive virtual power plant based on multi-agent reinforcement learning Accepted by Applied Energy.
+- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning Accepted by Applied Energy.
 
 # 📝 Journal and Conference
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", Accepted in *Applied Energy*, 2024.
