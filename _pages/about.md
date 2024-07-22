@@ -22,16 +22,16 @@ Nice to meet you here!
 
 I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
 
-I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). 
-Meanwhile I am the PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking Univerisity.
+I am currently a doctoral researcher in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). 
+Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
 
-I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy system, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
+I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
 I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-187-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning Accepted by Applied Energy.
+- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning accepted by Applied Energy.
 
 # 📝 Journal and Conference
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", Accepted in *Applied Energy*, 2024.
@@ -42,11 +42,11 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 - **H. Wu**, M. Craig. "Mitigating Thermal Risk in Buildings during Weather Related Resource Adequacy Failures with Grid-Scale Energy Storage", Accepted in *International Symposium on Sustainable Systems and Technology (ISSST) 2024*, Baltimore, Maryland.
 
-- **H. Wu**, M. Craig. "Climate Change Will Increase Costs of Rooftop Photovoltaics Globally", Accepted as lighting talk in *Macro Energy System Workshop (MES) 2024*, Princeton University, NJ.
+- **H. Wu**, M. Craig. "Climate Change Will Increase Costs of Rooftop Photovoltaics Globally", Accepted as lightning talk in *Macro Energy System Workshop (MES) 2024*, Princeton University, NJ.
 
 - L. Zhang, **H. Wu**, X. Wan, et al. "OMDA: Offline Model-Guided Distribution-Aware Offline-to-Online Reinforcement Learning", in *NeurIPS 2024*, Under Review.
 
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation to *IEEE Transactions Journal*.
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation for *IEEE Transactions Journal*.
 
 - J. Meng, **H. Wu**, T. Wang, et al. (2021). "A novel super-cooling enhancement method for a two-stage thermoelectric cooler using integrated triangular-square current pulses", *Energy*, 217, 119360.
 
@@ -75,12 +75,12 @@ I have some published articles and preprints (google scholar <a href='https://sc
 # 🔬 Research Projects
 - *Sept 2023 – May 2025*, University of Michigan
   - Making Decarbonization of the Electric Power Sector Robust to Climate Change
-  - Role: contribute to sub research project modeling and manuscript writing
+  - Role: contribute to sub-research project modelling and manuscript writing
   - NSF CAREER: CAS- Climate: PI: Prof. Michael Craig
 
 - *Sept 2020 – May 2023*, Zhejiang University
   - Data-driven Optimization of Energy Systems from the Perspectives of Information, Physics and Society
-  - Role: contribute to sub research project modeling and manuscript writing
+  - Role: contribute to sub-research project modelling and manuscript writing
   - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
 
 # 🛠 Skills and Courses
@@ -88,4 +88,4 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 **Programming:** Python, Julia, Matlab/Simulink, Git, LaTeX, C, C++
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jPAASSWSn9YUUMZlNnGnaGVpWob9LpaZcE0ZjatEOQs&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=jPAASSWSn9YUUMZlNnGnaGVpWob9LpaZcE0ZjatEOQs&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
