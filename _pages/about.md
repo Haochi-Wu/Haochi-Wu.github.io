@@ -30,7 +30,7 @@ I’m interested in the renewable transition of energy systems. Also I’m curio
 
 # 📝 Journal & Conference
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", Accepted in *Applied Energy*, 2024.
-- 
+
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Review.
 
 - **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Under Revision.
@@ -52,7 +52,7 @@ I’m interested in the renewable transition of energy systems. Also I’m curio
 # 🎖 Honors and Awards
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
 - *2020*, Outstanding Graduate Award, North China Electric Power University
-- *2019*, National Scholarship, Ministry of Education of China (Rate: 0.1%)
+- *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
 - *2019*, 2nd Prize in the 12th Competition of energy conservation and emission reduction
 
 
@@ -69,13 +69,16 @@ I’m interested in the renewable transition of energy systems. Also I’m curio
 
 # 🔬 Research Projects
 - *Sept 2023 – May 2025*, University of Michigan
-  - Contributor: sub research project modeling and manuscript writing
+  - Making Decarbonization of the Electric Power Sector Robust to Climate Change
+  - Role: contribute to research project modeling and manuscript writing
   - NSF CAREER: CAS- Climate: PI: Prof. Michael Craig
 
 - *Sept 2020 – May 2023*, Zhejiang University
-  - Contributor: sub research project modeling and manuscript writing
+  - Data-driven Optimization of Energy Systems from the Perspectives of Information, Physics and Society
+  - Role: contribute to research project modeling and manuscript writing
   - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
 
 # 🛠 Skills & Courses
 **Related Courses:** Scientific Programming, Energy System Modeling, Power System Economics, Convex Optimization, Machine Learning, Earth and Climate Science
+
 **Programming:** Python, Julia, Matlab/Simulink, Git, LaTeX, C, C++
