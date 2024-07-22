@@ -73,12 +73,12 @@ I have some published articles and preprints (google scholar <a href='https://sc
 # 🔬 Research Projects
 - *Sept 2023 – May 2025*, University of Michigan
   - Making Decarbonization of the Electric Power Sector Robust to Climate Change
-  - Role: contribute to research project modeling and manuscript writing
+  - Role: contribute to sub research project modeling and manuscript writing
   - NSF CAREER: CAS- Climate: PI: Prof. Michael Craig
 
 - *Sept 2020 – May 2023*, Zhejiang University
   - Data-driven Optimization of Energy Systems from the Perspectives of Information, Physics and Society
-  - Role: contribute to research project modeling and manuscript writing
+  - Role: contribute to sub research project modeling and manuscript writing
   - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
 
 # 🛠 Skills and Courses
