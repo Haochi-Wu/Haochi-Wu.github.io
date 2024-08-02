@@ -34,7 +34,7 @@ I have some published articles and preprints (google scholar <a href='https://sc
 - *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning accepted by Applied Energy.
 
 # 📝 Journal and Conference
-- **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024)."Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
+- **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024). "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
 
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Review.
 
