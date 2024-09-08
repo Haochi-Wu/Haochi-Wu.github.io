@@ -27,10 +27,11 @@ Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-191-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-195-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I am honored to have been selected as new *MES Fellow* by [Macro Energy Systems commitee](https://www.macroenergysystems.org/about-us)!
 - *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning accepted by Applied Energy.
 
 # 📝 Journal and Conference
@@ -55,6 +56,7 @@ I have some published articles and preprints (google scholar <a href='https://sc
 - J. Meng, **H. Wu**, T. Wang, et al. (2020). "Thermal management of a flexible controlled thermoelectric energy conversion-utilization system using a multi-objective optimization", *Applied Thermal Engineering*, 179, 115721.
 
 # 🎖 Honors and Awards
+- *2023-2024*, Serve as Reviewer in [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
 - *2020*, Outstanding Graduate Award, North China Electric Power University
 - *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
