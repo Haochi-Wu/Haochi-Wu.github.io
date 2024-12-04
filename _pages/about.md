@@ -27,27 +27,29 @@ Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-202-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-208-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2024.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 New Journal Paper on the impact of Bitcoin mining on the large-scale power system has been accepted by *Engineering*.
+- *2024.10*: &nbsp;🎉🎉 Three submissions have been accepted by the 2024 AGU in Washington, D.C., with an oral presentation on the effects of climate change on energy system (in the 'Net Zero Emissions Energy Systems' session).
 - *2024.08*: &nbsp;🎉🎉 I am honored to have been selected as new *MES Fellow* by [Macro Energy Systems commitee](https://www.macroenergysystems.org/about-us)!
-- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning accepted by Applied Energy.
+- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning has been accepted by *Applied Energy.
 
 # 📝 Journal and Conference
-- **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024). "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
-
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Review.
 
-- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Under Revision.
+- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Accepted.
+
+- **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024). "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
 
 - **H. Wu**, M. Craig. "Mitigating Thermal Risk in Buildings during Weather Related Resource Adequacy Failures with Grid-Scale Energy Storage", Accepted in *International Symposium on Sustainable Systems and Technology (ISSST) 2024*, Baltimore, Maryland.
 
 - **H. Wu**, M. Craig. "Climate Change Will Increase Costs of Rooftop Photovoltaics Globally", Accepted as lightning talk in *Macro Energy System Workshop (MES) 2024*, Princeton University, NJ.
 
-- L. Zhang, **H. Wu**, X. Wan, et al. "OMDA: Offline Model-Guided Distribution-Aware Offline-to-Online Reinforcement Learning", in *NeurIPS 2025*, Under Review.
+- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626_.
 
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in preparation for *IEEE Transactions Journal*.
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, Under Review.
 
 - J. Meng, **H. Wu**, T. Wang, et al. (2021). "A novel super-cooling enhancement method for a two-stage thermoelectric cooler using integrated triangular-square current pulses", *Energy*, 217, 119360.
 
