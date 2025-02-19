@@ -27,7 +27,7 @@ Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-221-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2025.pdf). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-225-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2025.pdf). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
@@ -37,7 +37,16 @@ I have some published articles and preprints (google scholar <a href='https://sc
 - *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning has been accepted by *Applied Energy*.
 
 # 📝 Journal and Conference
+
+**in-progress** 
+
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Revision.
+
+- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626_.
+
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, Under Revision.
+
+**publication** 
 
 - **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Accepted.
 
@@ -47,15 +56,13 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 - **H. Wu**, M. Craig. "Climate Change Will Increase Costs of Rooftop Photovoltaics Globally", Accepted as lightning talk in *Macro Energy System Workshop (MES) 2024*, Princeton University, NJ.
 
-- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626_.
-
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, Under Revision.
-
 - J. Meng, **H. Wu**, T. Wang, et al. (2021). "A novel super-cooling enhancement method for a two-stage thermoelectric cooler using integrated triangular-square current pulses", *Energy*, 217, 119360.
 
 - T. Wang, **H. Wu**, J. Meng, et al. (2020). "Optimization of a double-layered microchannel heat sink with semi-porous-ribs by multi-objective genetic algorithm", *International Journal of Heat and Mass Transfer*, 149, 119217.
 
 - J. Meng, **H. Wu**, T. Wang, et al. (2020). "Thermal management of a flexible controlled thermoelectric energy conversion-utilization system using a multi-objective optimization", *Applied Thermal Engineering*, 179, 115721.
+
+
 
 # 🎖 Honors and Awards
 - *2023-2024*, Serve as Reviewer in [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
