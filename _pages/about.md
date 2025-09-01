@@ -22,12 +22,12 @@ Nice to meet you here!
 
 I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
 
-I am currently a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). 
-Meanwhile, I am a PhD student at Zhejiang University, and my supervisor is [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
+I am currently a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). In September 2025, I will join the Department of Civil and Environmental Engineering at Stanford University as a Postdoctoral Researcher.
+I completed my PhD research in energy systems at Zhejiang University, under the supervision of [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
 
-I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interest also includes macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
+I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
 
-I have some published articles and preprints (google scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-239-blue?style=flat&logo=Google%20Scholar"></a>). You can find my CV here: [Haochi's CV](../assets/CV_Haochi_2025.pdf). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-265-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
@@ -42,17 +42,17 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Revision.
 
-- **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in *Nature Climate Change*, Under Review.
+- **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in *Nature Climate Change*, Under Revision.
 
-- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", Submitted.
+- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation*, Under Review.
 
-- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626_.
-
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, Under Revision.
+- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 **publication** 
 
-- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, Accepted.
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 2025 Accepted.
+
+- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, 2025 Accepted.
 
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024). "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
 
@@ -77,9 +77,9 @@ I have some published articles and preprints (google scholar <a href='https://sc
 
 
 # 📖 Educations
-- *Sept 2023 – May 2025*, **Ph.D. Candidate in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
+- *Sept 2023 – May 2025*, **Ph.D. in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
   - Supervisor: [**Prof. Mingyang Sun**](https://www.ideallab-smy.com/), Research Professor at Peking University, Honorary Lecturer at Imperial College London
-  - Visiting doctoral researcher at University of Michigan, Ann Arbor, UM-Center for Sustainable Systems. Supervisor: [**Prof. Michael Craig**](https://www.assetlab.org/people)
+  - Visiting doctoral researcher at the University of Michigan, Ann Arbor, UM-Center for Sustainable Systems. Supervisor: [**Prof. Michael Craig**](https://www.assetlab.org/people)
 
 - *Sept 2020 – May 2023*, **M.Sc** at **Zhejiang University**, College of Control Science and Engineering
   - Recommended as an exam-free student to the graduate school
