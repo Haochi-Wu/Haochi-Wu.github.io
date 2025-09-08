@@ -18,16 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me 
-Nice to meet you here!
+Nice to meet you here! I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
 
-I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
+I am currently a Postdoctoral Researcher in the Department of Civil and Environmental Engineering at Stanford University.
 
-I am currently a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). In September 2025, I will join the Department of Civil and Environmental Engineering at Stanford University as a Postdoctoral Researcher.
+Before this, I was a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig).
 I completed my PhD research in energy systems at Zhejiang University, under the supervision of [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
 
-I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, and emerging energy conversion and management technologies. 
+I’m interested in the renewable transition of energy systems. I’m curious about how future energy and water systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-265-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-268-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
