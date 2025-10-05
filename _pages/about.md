@@ -27,32 +27,36 @@ I completed my PhD research in energy systems at Zhejiang University, under the 
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy and water systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-268-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-286-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 New Journal Paper on the impact of Bitcoin mining on the large-scale power system has been accepted by *Engineering*.
-- *2024.10*: &nbsp;🎉🎉 Three submissions have been accepted by the 2024 AGU in Washington, D.C., with an oral presentation on the effects of climate change on energy system (in the 'Net Zero Emissions Energy Systems' session).
-- *2024.08*: &nbsp;🎉🎉 I am honored to have been selected as new *MES Fellow* by [Macro Energy Systems commitee](https://www.macroenergysystems.org/about-us)!
-- *2024.07*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning has been accepted by *Applied Energy*.
+- *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been pre-accepted by ***Joule***.
+- *2025.Sep*: &nbsp;🎉🎉 I have started my new position as a Postdoctoral Researcher at Stanford University, joining the *[WE3 Lab](https://we3lab.stanford.edu/people/haochi-wu)*!.
+- *2025.Aug*: &nbsp;🎉🎉 New journal paper on energy load profile generation using a diffusion model has been accepted by *IEEE Transactions on Smart Grid*.
+- *2025.Jun*: &nbsp;🎉🎉 I have officially received my Ph.D. degree from Zhejiang University!
+- *2024.Dec*: &nbsp;🎉🎉 New Journal Paper on the impact of Bitcoin mining on the large-scale power system has been accepted by *Engineering*.
+- *2024.Oct*: &nbsp;🎉🎉 Three submissions have been accepted by the 2024 AGU in Washington, D.C., with an oral presentation on the effects of climate change on energy system (in the 'Net Zero Emissions Energy Systems' session).
+- *2024.Aug*: &nbsp;🎉🎉 I am honored to have been selected as new *MES Fellow* by [Macro Energy Systems committee](https://www.macroenergysystems.org/about-us)!
+- *2024.Jul*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning has been accepted by *Applied Energy*.
 
 # 📝 Journal and Conference
 
 **in-progress** 
 
-- **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in *Joule*, Under Revision.
+- **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", in ***Joule***, Pre-accepted.
 
 - **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in *Nature Climate Change*, Under Revision.
 
-- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation*, Under Review.
+- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation*, Under Revision.
 
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 **publication** 
 
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 2025 Accepted.
+- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 2025, Early Access.
 
-- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, 2025 Accepted.
+- **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, 2025, in press.
 
 - **H. Wu**, D. Qiu, L. Zhang, M. Sun, (2024). "Adaptive Multi-Agent Reinforcement Learning for Flexible Resource Management in a Virtual Power Plant with Dynamic Participating Multi-Energy Buildings", *Applied Energy* 374, 123998.
 
