@@ -25,7 +25,7 @@ I am currently a Postdoctoral Researcher in the Department of Civil and Environm
 Before this, I was a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig).
 I completed my PhD research in energy systems at Zhejiang University, under the supervision of [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
 
-I’m interested in the renewable transition of energy systems. I’m curious about how future energy and water systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
+I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
 I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-291-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
@@ -48,13 +48,13 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 - **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in *Nature Climate Change*, Under Revision.
 
-- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation* (Cell Press), Pre-accepted.
+- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation* (Cell Press), Accepted.
 
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 **publication** 
 
-- Y. Quan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 2025, Early Access.
+- Q. Yuan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 2025, Early Access.
 
 - **H. Wu**, J. Wang, F. Teng, et al. "Tracking Bitcoin-Induced Carbon Trajectory in China Via Refined Spatiotemporal Assessment", in *Engineering*, 2025, in press.
 
@@ -73,38 +73,37 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 
 # 🎖 Honors and Awards
-- *2023-2024*, Serve as Reviewer in [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
+- *2023-2024*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
 - *2020*, Outstanding Graduate Award, North China Electric Power University
 - *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
-- *2019*, 2nd Prize in the 12th Competition of energy conservation and emission reduction
 
 
 # 📖 Educations
-- *Sept 2023 – May 2025*, **Ph.D. in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
+- *Sep 2023 – May 2025*, **Ph.D. in Control Science and Engineering** at **Zhejiang University**, College of Control Science and Engineering
   - Supervisor: [**Prof. Mingyang Sun**](https://www.ideallab-smy.com/), Research Professor at Peking University, Honorary Lecturer at Imperial College London
   - Visiting doctoral researcher at the University of Michigan, Ann Arbor, UM-Center for Sustainable Systems. Supervisor: [**Prof. Michael Craig**](https://www.assetlab.org/people)
 
-- *Sept 2020 – May 2023*, **M.Sc** at **Zhejiang University**, College of Control Science and Engineering
+- *Sep 2020 – May 2023*, **M.Sc** at **Zhejiang University**, College of Control Science and Engineering
   - Recommended as an exam-free student to the graduate school
 
-- *Sept 2016 – May 2020*, **B.Eng.** at **North China Electric Power University**, School of Control and Computer Engineering
+- *Sep 2016 – May 2020*, **B.Eng.** at **North China Electric Power University**, School of Control and Computer Engineering
   - Grade 92.3, Rankings 4/123
 
 # 🔬 Research Projects
-- *Sept 2023 – May 2025*, University of Michigan
+- *Sep 2023 – Sep 2025*, University of Michigan
   - Making Decarbonization of the Electric Power Sector Robust to Climate Change
   - Role: contribute to sub-research project modelling and manuscript writing
   - NSF CAREER: CAS- Climate: PI: Prof. Michael Craig
 
-- *Sept 2020 – May 2023*, Zhejiang University
+- *Sep 2020 – May 2023*, Zhejiang University
   - Data-driven Optimization of Energy Systems from the Perspectives of Information, Physics and Society
   - Role: contribute to sub-research project modelling and manuscript writing
   - NSFC joint program with Netherlands: PI: Prof. Mingyang Sun
 
-# 🛠 Skills and Courses
-**Related Courses:** Scientific Programming, Energy System Modeling, Power System Economics, Convex Optimization, Machine Learning, Earth and Climate Science
+# 🛠 Skills
+**Domain Knowledge:** Scientific Programming, Energy System Modeling, Power System Economics, Convex Optimization, Machine Learning, Earth and Climate Science
 
-**Programming:** Python, Julia, Matlab/Simulink, Git, LaTeX, C, C++
+**Scientific Computing and AI Programming:** Python, PyTorch, Julia, Matlab/Simulink, Git, Slurm, LaTeX, C, C++
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=jPAASSWSn9YUUMZlNnGnaGVpWob9LpaZcE0ZjatEOQs&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
