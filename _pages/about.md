@@ -51,10 +51,13 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 **publication** 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Clim. Change 2026</div><img src='images/Website_Image_NCC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in ***Nature Climate Change***, in press, 2026.
 
     - Featured in a Nature Research Briefing.- M. Craig, **H. Wu**. "Electric vehicle battery advances  mitigate lifetime reductions driven by climate change", in ***Nature Climate Change***, in press, 2026.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Joule 2026</div><img src='images/Website_Image_Joule.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +66,11 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation 2026</div><img src='images/Website_Image_H2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation* (Cell Press), 101303, 2026. **(Cover Paper)**
+</div>
+</div>
 
 - Q. Yuan, **H. Wu**, et al. "PrivLoad: Privacy-preserving Load Profiles Synthesis Based on Diffusion Models", in *IEEE Transactions on Smart Grid*, 16:6, 5628-5640, 2025.
 
