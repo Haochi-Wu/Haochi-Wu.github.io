@@ -39,8 +39,7 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - *2024.Aug*: &nbsp;🎉🎉 I am honored to have been selected as a new *MES Fellow* by [Macro Energy Systems committee](https://www.macroenergysystems.org/about-us)!
 
 # 📝 Journal and Conference
-**publication** 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Clim. Change 2026</div><img src='images/Website_Image_NCC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Clim. Change 2026</div><img src='images/Website_Image_NCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in ***Nature Climate Change***, in press, 2026.
 
@@ -75,9 +74,8 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 - T. Wang, **H. Wu**, J. Meng, et al. (2020). "Optimization of a double-layered microchannel heat sink with semi-porous-ribs by multi-objective genetic algorithm", *International Journal of Heat and Mass Transfer*, 149, 119217.
 
-**in-progress** 
-
-- M. Shi, **H. Wu**, et al. “Moving beyond technical potential for rooftop solar photovoltaics,” Nature Reviews Clean Technology (In Revision), 2026.
+**in-progress**
+- M. Shi, **H. Wu**, et al. “Moving beyond technical potential for rooftop solar photovoltaics,” **Nature Reviews Clean Technology** (In Revision), 2026.
 - J. Moraski, **H. Wu**, M. Craig, and D. Callaway, “Quantifying the power system benefits of building upgrades for passive survivability in a changing climate,” Environmental Science & Technology (Under Review), 2026.
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
