@@ -31,8 +31,8 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 
 # 🔥 News
-- *2025.Dec*: &nbsp;🎉🎉 New Journal Paper on technological advancements in EV battery has been pre-accepted by <span style="color:red">***Nature Climate Change***.</span>
-- *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been accepted by <span style="color:red">***Joule***, and is selected as a **Cover Paper**!</span>
+- *2025.Dec*: &nbsp;🎉🎉 New Journal Paper on technological advancements in EV battery has been pre-accepted by <span style="color:#910532">***Nature Climate Change***.</span>
+- *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been accepted by <span style="color:#910532">***Joule***, and is selected as a **Cover Paper**!</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on climate resilience in green hydrogen cost and planning has been accepted by ***The Innovation***, and is selected as a **Cover Paper**!
 - *2025.Sep*: &nbsp;🎉🎉 I have started my new position as a Postdoctoral Researcher at Stanford University, joining the *[WE3 Lab](https://we3lab.stanford.edu/people/haochi-wu)*!.
 - *2025.Aug*: &nbsp;🎉🎉 New journal paper on energy load profile generation using a diffusion model has been accepted by *IEEE Transactions on Smart Grid*.
