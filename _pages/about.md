@@ -56,7 +56,12 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
     - Featured in a Nature Research Briefing.- M. Craig, **H. Wu**. "Electric vehicle battery advances  mitigate lifetime reductions driven by climate change", in ***Nature Climate Change***, in press, 2026.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Joule 2026</div><img src='images/Website_Image_Joule.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", ***Joule*** 10, 1102218, 2026. **(Cover Paper)**
+</div>
+</div>
 
 - **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation* (Cell Press), 101303, 2026. **(Cover Paper)**
 
