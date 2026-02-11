@@ -80,8 +80,8 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 # 🎖 Professional Service and Awards
 - *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
+- *2025*, MES Fellow, Macro Energy Systems (MES) Committee.
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
-- *2020*, Outstanding Graduate Award, North China Electric Power University
 - *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
 
 
