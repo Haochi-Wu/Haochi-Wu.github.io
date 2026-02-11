@@ -27,7 +27,7 @@ I completed my PhD research in energy systems at Zhejiang University, under the 
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-305-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-308-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
@@ -35,21 +35,10 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been accepted by <span style="color:#910532">***Joule***, and is selected as a **Cover Paper**!</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on climate resilience in green hydrogen cost and planning has been accepted by ***The Innovation***, and is selected as a **Cover Paper**!
 - *2025.Sep*: &nbsp;🎉🎉 I have started my new position as a Postdoctoral Researcher at Stanford University, joining the *[WE3 Lab](https://we3lab.stanford.edu/people/haochi-wu)*!.
-- *2025.Aug*: &nbsp;🎉🎉 New journal paper on energy load profile generation using a diffusion model has been accepted by *IEEE Transactions on Smart Grid*.
-- *2025.Jun*: &nbsp;🎉🎉 I have officially received my Ph.D. degree from Zhejiang University!
-- *2024.Dec*: &nbsp;🎉🎉 New Journal Paper on the impact of Bitcoin mining on the large-scale power system has been accepted by *Engineering*.
 - *2024.Oct*: &nbsp;🎉🎉 Three submissions have been accepted by the 2024 AGU in Washington, D.C., with an oral presentation on the effects of climate change on energy systems (in the 'Net Zero Emissions Energy Systems' session).
 - *2024.Aug*: &nbsp;🎉🎉 I am honored to have been selected as a new *MES Fellow* by [Macro Energy Systems committee](https://www.macroenergysystems.org/about-us)!
-- *2024.Jul*: &nbsp;🎉🎉 New Journal Paper on adaptive virtual power plant based on multi-agent reinforcement learning has been accepted by *Applied Energy*.
 
 # 📝 Journal and Conference
-
-**in-progress** 
-
-- M. Shi, **H. Wu**, et al. “Moving beyond technical potential for rooftop solar photovoltaics,” Nature Reviews Clean Technology (In Revision), 2026.
-- J. Moraski, **H. Wu**, M. Craig, and D. Callaway, “Quantifying the power system benefits of building upgrades for passive survivability in a changing climate,” Environmental Science & Technology (Under Review), 2026.
-- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
-
 **publication** 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Clim. Change 2026</div><img src='images/Website_Image_NCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,9 +75,11 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 
 - T. Wang, **H. Wu**, J. Meng, et al. (2020). "Optimization of a double-layered microchannel heat sink with semi-porous-ribs by multi-objective genetic algorithm", *International Journal of Heat and Mass Transfer*, 149, 119217.
 
-- J. Meng, **H. Wu**, T. Wang, et al. (2020). "Thermal management of a flexible controlled thermoelectric energy conversion-utilization system using a multi-objective optimization", *Applied Thermal Engineering*, 179, 115721.
+**in-progress** 
 
-
+- M. Shi, **H. Wu**, et al. “Moving beyond technical potential for rooftop solar photovoltaics,” Nature Reviews Clean Technology (In Revision), 2026.
+- J. Moraski, **H. Wu**, M. Craig, and D. Callaway, “Quantifying the power system benefits of building upgrades for passive survivability in a changing climate,” Environmental Science & Technology (Under Review), 2026.
+- L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 # 🎖 Professional Service and Awards
 - *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
