@@ -27,7 +27,7 @@ I completed my PhD research in energy systems at Zhejiang University, under the 
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-308-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-336-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
 
 # 🔥 News
@@ -41,9 +41,13 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 # 📝 Journal and Conference
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Clim. Change 2026</div><img src='images/Website_Image_NCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in ***Nature Climate Change***, in press, 2026.
+- **H. Wu**, J. Chen, P. Vaishnav, et al. "Technological improvements in EV batteries offset climate-induced durability challenges", in ***[Nature Climate Change](https://doi.org/10.1038/s41558-026-02579-z)***, 2026.
+  
+    - Featured in ***Nature*** Research Highlights "Electric-vehicle batteries toughen up to beat the heat", in ***[Nature](https://www.nature.com/articles/d41586-026-00670-1)***, 2026.
+    
+    - Featured in a Nature Research Briefing.- M. Craig, **H. Wu**. "Electric vehicle battery advances  mitigate lifetime reductions driven by climate change", in ***[Nature Climate Change](https://www.nature.com/articles/s41558-026-02581-5)***, 2026. 
 
-    - Featured in a Nature Research Briefing.- M. Craig, **H. Wu**. "Electric vehicle battery advances  mitigate lifetime reductions driven by climate change", in ***Nature Climate Change***, in press, 2026.
+    - **Selected Media Coverage:** [*SCMP*](https://www.scmp.com/news/china/science/article/3347672/does-climate-change-accelerate-ev-battery-ageing-not-so-fast-researchers-say) \| [*ACS C&EN*](https://cen.acs.org/materials/energy-storage/battery-EV-battery-climate-change/104/web/2026/03) \| [*Ars Technica*](https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/) \| [*Euronews*](https://www.euronews.com/2026/03/04/climate-change-is-bad-news-for-ev-batteries-can-technology-outsmart-rising-temperatures)
 </div>
 </div>
 
