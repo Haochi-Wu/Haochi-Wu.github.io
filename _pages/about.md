@@ -18,17 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me 
-Nice to meet you here! I am Haochi Wu, a junior but passionate researcher working on a low-carbon energy system for the future!
-
-I am currently a Postdoctoral Researcher in the Department of Civil and Environmental Engineering at Stanford University.
+Nice to meet you here! I am Haochi Wu, a passionate researcher at Stanford University, dedicated to building a resilient, sustainable energy future!
+My work bridges the gap between complex energy, market, policy, and climate physics and real-world value-driven optimization.
 
 Before this, I was a doctoral researcher and research associate in the [ASSET Lab](https://www.assetlab.org/) and [Center for Sustainable Systems](https://css.umich.edu/) at the University of Michigan, working with [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig).
 I completed my PhD research in energy systems at Zhejiang University, under the supervision of [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) at Peking University.
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-336-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-355-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 
+## ⚡ Quantitative Expertise & Industry Impact
+
+**My research and optimization frameworks directly address the core challenge of modern energy trading: maximizing the economic value of energy technologies while managing physical risks.**
+
+- **Asset Valuation & Bidding:** My work in ***Nature Climate Change*** and ***Joule*** translates physical **State of Health (SOH)** and **Durability** into financial risk metrics, directly informing long-term revenue forecasting and bidding strategies.
+- **Advanced Optimization:** Expert in **Gurobi and Pyomo** for large-scale MILP; developer of Multi-Agent Reinforcement Learning (MARL) and **Transformer-based** time-series AI models for grid dispatch.
+- **Market Intelligence:** Deep understanding of **LMP and nodal dynamics** in **CAISO and ERCOT**, specializing in the intersection of battery longevity and market profitability.
 
 # 🔥 News
 - *2025.Dec*: &nbsp;🎉🎉 New Journal Paper on technological advancements in EV battery has been pre-accepted by <span style="color:#910532">***Nature Climate Change***.</span>
