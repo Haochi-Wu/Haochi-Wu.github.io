@@ -37,7 +37,7 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - **Market Intelligence:** Deep understanding of **LMP and nodal dynamics** in **CAISO and ERCOT**, specializing in the intersection of battery longevity and market profitability.
 {% endcomment %}
 # 🔥 News
-- *2026.Jun*: &nbsp;🎉🎉 New Journal Paper on rooftop solar PV potential has been published in <span style="color:#910532">***Nature Reviews Clean Technology***!</span>
+- *2026.Jun*: &nbsp;🎉🎉 New Journal Paper on rooftop solar PV potential has been published in ***Nature Reviews Clean Technology***!
 - *2025.Dec*: &nbsp;🎉🎉 New Journal Paper on technological advancements in EV battery has been pre-accepted by <span style="color:#910532">***Nature Climate Change***.</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been accepted by <span style="color:#910532">***Joule***, and is selected as a **Cover Paper**!</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on climate resilience in green hydrogen cost and planning has been accepted by ***The Innovation***, and is selected as a **Cover Paper**!
