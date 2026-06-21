@@ -26,8 +26,8 @@ I completed my PhD research in energy systems at Zhejiang University, under the 
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-355-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
-
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-409-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+{% comment %}
 ## ⚡ Quantitative Expertise & Industry Impact
 
 **My research and optimization frameworks directly address the core challenge of modern energy trading: maximizing the economic value of energy technologies while managing physical risks.**
@@ -35,8 +35,9 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - **Asset Valuation & Bidding:** My work in ***Nature Climate Change*** and ***Joule*** translates physical **State of Health (SOH)** and **Durability** into financial risk metrics, directly informing long-term revenue forecasting and bidding strategies.
 - **Advanced Optimization:** Expert in **Gurobi and Pyomo** for large-scale MILP; developer of Multi-Agent Reinforcement Learning (MARL) and **Transformer-based** time-series AI models for grid dispatch.
 - **Market Intelligence:** Deep understanding of **LMP and nodal dynamics** in **CAISO and ERCOT**, specializing in the intersection of battery longevity and market profitability.
-
+{% endcomment %}
 # 🔥 News
+- *2026.Jun*: &nbsp;🎉🎉 New Journal Paper on rooftop solar PV potential has been published in <span style="color:#910532">***Nature Reviews Clean Technology***!</span>
 - *2025.Dec*: &nbsp;🎉🎉 New Journal Paper on technological advancements in EV battery has been pre-accepted by <span style="color:#910532">***Nature Climate Change***.</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on global rooftop PV reliability under climate change has been accepted by <span style="color:#910532">***Joule***, and is selected as a **Cover Paper**!</span>
 - *2025.Oct*: &nbsp;🎉🎉 New Journal Paper on climate resilience in green hydrogen cost and planning has been accepted by ***The Innovation***, and is selected as a **Cover Paper**!
@@ -58,15 +59,20 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Joule 2026</div><img src='images/Website_Image_Joule.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", ***Joule*** 10, 1102218, 2026. **(Cover Paper)**
+<div class='paper-box-text' markdown="1">  
+- **H. Wu**, Q. Kong, M. Huber, et al. "Climate Change Will Increase High Temperature Risks, Degradation, and Costs of Rooftop Photovoltaics Globally", ***[Joule](https://doi.org/10.1016/j.joule.2025.102218)*** 10, 1102218, 2026. **(Cover Paper)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Rev. Clean Technol. 2026</div><img src='images/solar_potential.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
+- M. Shi, **H. Wu**, Z. Wang, et al. "Technical to deployable potential of rooftop solar photovoltaics", in ***[Nature Reviews Clean Technology](https://doi.org/10.1038/s44359-026-00179-w)***, 2026.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation 2026</div><img src='images/Website_Image_H2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in *The Innovation* (Cell Press), 101303, 2026. **(Cover Paper)**
+<div class='paper-box-text' markdown="1">  
+- **H. Wu**, M. Sun, M. Craig. "Updating Global Green Hydrogen Production Costs and Configurations under Future Climates", in ***[The Innovation](https://doi.org/10.1016/j.xinn.2026.101303)*** (Cell Press), 101303, 2026. **(Cover Paper)**
 </div>
 </div>
 
@@ -85,12 +91,11 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - T. Wang, **H. Wu**, J. Meng, et al. (2020). "Optimization of a double-layered microchannel heat sink with semi-porous-ribs by multi-objective genetic algorithm", *International Journal of Heat and Mass Transfer*, 149, 119217.
 
 **in-progress**
-- M. Shi, **H. Wu**, et al. “Moving beyond technical potential for rooftop solar photovoltaics,” **Nature Reviews Clean Technology** (In Revision), 2026.
 - J. Moraski, **H. Wu**, M. Craig, and D. Callaway, “Quantifying the power system benefits of building upgrades for passive survivability in a changing climate,” Environmental Science & Technology (Under Review), 2026.
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 # 🎖 Professional Service and Awards
-- *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265).
+- *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265), Solar Energy.
 - *2025*, MES Fellow, Macro Energy Systems (MES) Committee.
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
 - *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
