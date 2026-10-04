@@ -26,7 +26,7 @@ I completed my PhD research in energy systems at Zhejiang University, under the 
 
 I’m interested in the renewable transition of energy systems. I’m curious about how future energy systems mitigate and adapt to climate change. My research interests also include macro energy systems, efficient data-driven energy system operation, water-energy nexus, and emerging energy conversion and management technologies.
 
-I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-409-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
+I have some published articles and preprints (Google Scholar <a href='https://scholar.google.com/citations?user=512_0RoAAAAJ&hl'><img src="https://img.shields.io/badge/citations-486-blue?style=flat&logo=Google%20Scholar"></a>). If you are interested in my work, please feel free to contact me!
 {% comment %}
 ## ⚡ Quantitative Expertise & Industry Impact
 
@@ -95,7 +95,7 @@ I have some published articles and preprints (Google Scholar <a href='https://sc
 - L. Zhang, **H. Wu**, X. Wan, et al. "SAMG: State-Action-Aware Offline-to-Online Reinforcement Learning with Offline Model Guidance", preprint on _arxiv.2410.18626.
 
 # 🎖 Professional Service and Awards
-- *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265), Solar Energy.
+- *2023-Present*, Serve as Reviewer in Communications Earth & Environment, IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, Applied Energy, [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265), Solar Energy, Journal of Cleaner Production.
 - *2025*, MES Fellow, Macro Energy Systems (MES) Committee.
 - *2021*, Outstanding Graduate Student Award, Zhejiang University
 - *2019*, National Scholarship, Ministry of Education of China (Rate: top 1%)
